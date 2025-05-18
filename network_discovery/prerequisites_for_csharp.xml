@@ -1,0 +1,5 @@
+<!-- Prerequisites for the CSharp file -->
+<PackageReference Include="System.Net.NetworkInformation" Version="7.0.0" />
+<PackageReference Include="BACnet.Core" Version="1.0.0" />
+<PackageReference Include="NModbus4" Version="2.1.0" />
+<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
